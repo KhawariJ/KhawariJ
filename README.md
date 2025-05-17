@@ -2,9 +2,9 @@
 I'm a passionate software engineer with a background in QA automation and fullstack web development. I'm currently pursuing my M.S. in Artificial Intelligence & Machine Learning.
 
 ---
-🌎 Based in Houston, TX
-🎓 Graduate Student @ Colorado State University - Global
-👨‍💻 Fullstack Developer | QA Automation Engineer | AI/ML Enthusiast
+- **🌎 Based in Houston, TX
+- **🎓 Graduate Student @ Colorado State University - Global
+- **👨‍💻 Fullstack Developer | QA Automation Engineer | AI/ML Enthusiast
 
 ---
 ## 🛠️ Tech Stack
