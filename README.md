@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jafar Khawari
 I'm a passionate software engineer with a background in QA automation and fullstack web development. I'm currently pursuing my M.S. in Artificial Intelligence & Machine Learning.
+
+---
 🌎 Based in Houston, TX
 🎓 Graduate Student @ Colorado State University - Global
 👨‍💻 Fullstack Developer | QA Automation Engineer | AI/ML Enthusiast
@@ -11,22 +13,17 @@ I'm a passionate software engineer with a background in QA automation and fullst
 - **QA Automation:** Java, Selenium WebDriver, TestNG, Cucumber, REST Assured
 - **Dev Tools:** Git, GitHub, Postman, Jenkins, VSCode
 - **AI/ML:** Python, TensorFlow, PyTorch, NLP (in progress)
----
-## 🚀 Projects
-| Project | Tech | Description |
-|--------|------|-------------|
-| [🧑‍💻 DevFinder](https://github.com/jafarkhawari/devfinder) | React, API | GitHub user search app with dark mode and responsive design | 
-| [🗂️ Task Manager App](https://github.com/jafarkhawari/task-manager-app) | MERN | Fullstack app with JWT auth, CRUD tasks, responsive UI |
-|[💬 Real-Time Chat](https://github.com/jafarkhawari/realtime-chat-firebase) | Firebase, React | Chat app with real-time updates, user presence, and custom styling |
-| [🔍 QA Automation Suite](https://github.com/jafarkhawari/selenium-framework) | Selenium, TestNG | Automated testing framework for web apps with reporting & CI support |
 
-> See more on [my GitHub Projects
-page](https://github.com/jafarkhawari?tab=repositories)
+  
+---
+🚀 **Most recent project:**  
+[**SpaceX Mission Dashboard**](https://spacex-mission-dashboard.netlify.app) — a frontend app displaying real-time launch data via the SpaceX public API. Built with React + Vite and deployed on Netlify.  
+[→ View the GitHub repo](https://github.com/KhawariJ/spacex-mission-dashboard) 
+
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/jafarkhawari)
 - [GitHub](https://github.com/KhawariJ)
-- Email: Jafar.khawari@gmail.com
+- Email: Jafar.khawari@gmail.com 
   
 💡 *“Learning never exhausts the mind.” – Leonardo da Vinci*
 
